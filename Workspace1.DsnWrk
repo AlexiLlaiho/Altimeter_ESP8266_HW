@@ -1,0 +1,10 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=esp_altimeter_evo1\esp_altimeter_evo1.PrjPcb
+[Project2]
+ProjectPath=..\FGit\Altium\esp_altimeter\esp_altimeter.PrjPCB
+[Project3]
+ProjectPath=esp_altimeter_evo2\PCB_Project\esp_altimeter_evo2.PrjPcb
+[Project4]
+ProjectPath=..\Dissertation_Saschka_Research\Altium_Lib\Altium_ElectroMechanics_Lib\Altium_ElectroMechanics_Lib.LibPkg

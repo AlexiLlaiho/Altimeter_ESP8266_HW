@@ -1,0 +1,81 @@
+Added Component: Designator=C1(CAP EIA 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Group"; Value = "Конденсаторы"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP EIA 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Group"; Value = "Конденсаторы"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=DA1(SOT23-5L)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R1(RES EIA 0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Group"; Value = "Резисторы"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SF1(MK23-35-B-2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Group"; Value = "Переключатели"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "MEDER electronic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "MK23-35-B-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ООО Компел"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Open Reed Magnit Sensors"; VariantName = "[No Variations]"
+Added Component: Designator=VD1(SOD-323)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Group"; Value = "Диоды"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "BAT54HT1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ООО "Компэл""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "SCHOTTKY BARRIER DIOD 0.2 AMPERES, 30 VOLTS"; VariantName = "[No Variations]"
+Added Component: Designator=VT1(sot23)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Group"; Value = "Транзисторы"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "International Rectifier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "IRLML5203TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ООО "Торгэлектроника""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "MOSFET;Канал:P;-30В"; VariantName = "[No Variations]"
+Added Component: Designator=X_GND1(Surface_Pad)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X_VCC1(Surface_Pad)
+Add component. Clean all parameters for all variants
+Added Component: Designator=XM1(Surface_Pad)
+Add component. Clean all parameters for all variants
+Added Component: Designator=XTD1(Surface_Pad)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+3.3V Pin=C2-2
+Added Pin To Net: NetName=+3.3V Pin=DA1-5
+Added Pin To Net: NetName=+3.3V Pin=XTD1-1
+Added Net: Name=+3.3V
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=DA1-2
+Added Pin To Net: NetName=GND Pin=X_GND1-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=DA1-1
+Added Pin To Net: NetName=NetC1_2 Pin=SF1-1
+Added Pin To Net: NetName=NetC1_2 Pin=VT1-3
+Added Pin To Net: NetName=NetC1_2 Pin=X_VCC1-1
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetDA1_3 Pin=DA1-3
+Added Pin To Net: NetName=NetDA1_3 Pin=VT1-2
+Added Net: Name=NetDA1_3
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=SF1-2
+Added Pin To Net: NetName=NetR1_1 Pin=VD1-2
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=VT1-1
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetVD1_1 Pin=VD1-1
+Added Pin To Net: NetName=NetVD1_1 Pin=XM1-1
+Added Net: Name=NetVD1_1
+Added Class: Name=esp_altimeter_evo2

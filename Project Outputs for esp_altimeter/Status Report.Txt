@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [esp_altimeter.PrjPCB]
+   Generated File[esp_altimeter_1.TXT]
+   Generated File[esp_altimeter_1.LDP]
+   Generated File[esp_altimeter_1.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 12:11:32 On 17.02.2020

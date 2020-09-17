@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=SA1-1
+Removed Pin From Net: NetName=GND Pin=SA1-1
+Removed Pin From Net: NetName=RTS Pin=SA1-2
+Removed Pin From Net: NetName=RTS Pin=SA1-2
+Removed Member From Class: ClassName=esp_altimeter Member=SA1
+Added Component: Designator=SB1(SB_Connector)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Group"; Value = "Разъемы"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "A_Gorbunov"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Соединительная площадка"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=SB1-1
+Added Pin To Net: NetName=RTS Pin=SB1-2
+Added Member To Class: ClassName=esp_altimeter Member=Component SB1 RESET

@@ -1,0 +1,11 @@
+Added Component: Designator=SA1(IS-1290F)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Group"; Value = "Переключатели"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "IS-1290"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_2 Pin=SA1-1
+Added Pin To Net: NetName=NetSA1_2 Pin=SA1-2
+Added Pin To Net: NetName=NetSA1_3 Pin=SA1-3
+Added Member To Class: ClassName=esp_altimeter_evo1 Member=Component SA1 IS-1290

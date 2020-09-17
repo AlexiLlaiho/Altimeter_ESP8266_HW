@@ -1,0 +1,16 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=esp_altimeter.PrjPCB
+[Project2]
+ProjectPath=ESP8266-master\esp8266_library.LibPkg
+[Project3]
+ProjectPath=handm_altimeter.PrjPCB
+[Project4]
+ProjectPath=esp_altimeter_evo1\esp_altimeter_evo1.PrjPcb
+[Project5]
+ProjectPath=..\..\..\Dissertation_Saschka_Research\Altium_Lib\Altium_Power_System_Lib\Altium_Power_System_Lib.LibPkg
+[Project6]
+ProjectPath=..\..\..\Dissertation_Saschka_Research\Altium_Lib\Altium_Connectors_Lib\Altium_Connectors_Lib.LibPkg
+[Project7]
+ProjectPath=..\..\..\Dissertation_Saschka_Research\Altium_Lib\Altium_Switchers_Lib\Altium_Switchers_Lib.LibPkg
