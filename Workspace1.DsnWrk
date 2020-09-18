@@ -7,4 +7,4 @@ ProjectPath=..\FGit\Altium\esp_altimeter\esp_altimeter.PrjPCB
 [Project3]
 ProjectPath=esp_altimeter_evo2\PCB_Project\esp_altimeter_evo2.PrjPcb
 [Project4]
-ProjectPath=..\Dissertation_Saschka_Research\Altium_Lib\Altium_ElectroMechanics_Lib\Altium_ElectroMechanics_Lib.LibPkg
+ProjectPath=..\Dissertation_Saschka_Research\Altium_Lib\Altium_Connectors_Lib\Altium_Connectors_Lib.LibPkg
